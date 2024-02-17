@@ -1,2 +1,2 @@
 # potential-fishstick
-Basic lexer/tokenizer in Python using regular expressions
+Basic [lexer](https://github.com/TallerThanShort/potential-fishstick/blob/main/lexer.py)/[tokenizer](https://github.com/TallerThanShort/potential-fishstick/blob/main/parser.py) in Python using [regular expressions](https://wikipedia.org/wiki/Regular_expressions)
